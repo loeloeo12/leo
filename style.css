@@ -1,0 +1,53 @@
+
+.box-h{
+    font:;color: rgb(0, 0, 0);
+    background-color: darkslategray;
+    margin: 50px;
+}
+.box-per{
+    font:;color: rgb(0, 0, 0);
+    background-color: sienna;
+    margin: auto;
+}
+nav {
+    background-color: darkslategrey;
+    color: bisque;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  .box-perso{
+    background-color: burlywood;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+.boxcontact{
+    background-color: darkslategray;
+}
+.box-s{
+  font:;color: aliceblue;
+  background-color: darkslategray;
+  margin: 50px;
+}
+.box-per2{
+  font:;color: aliceblue;
+  background-color: sienna;
+  margin: auto;
+}
+.ff{
+  color: #fff;
+}
+.ii{
+  color: #fff;
+}
